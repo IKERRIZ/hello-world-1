@@ -1,8 +1,10 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+### By Faith Okoth
+Click the link below
+- [IKERRIZ](https://github.com/IKERRIZ)
+
 
 ## Project setup instructions
 To start using this project use the following commands:
